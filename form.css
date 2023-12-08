@@ -7,6 +7,9 @@ body{
     background-color: whitesmoke;
     font-family: sans-serif;
 }
+form h3{
+    color: #addfad;
+}
 .input{
     /* margin: 0 40%; */
     /* margin: auto; */
